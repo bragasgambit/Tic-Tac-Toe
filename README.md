@@ -1,11 +1,11 @@
 # Tic Tac Toe
-#### Video Demo:  [YouTube Video](https://www.youtube.com/watch?v=ZRzwWXZbcXY)
+#### [YouTube Video](https://www.youtube.com/watch?v=ZRzwWXZbcXY)
 #### Description:
-Project Title: This is Tic-Tac-Toe
-Name: Yuri R Braga
-GitHub Username: [bragasgambit](https://github.com/bragasgambit)
-edX Username: [YuriRBraga](https://profile.edx.org/u/YuriRBraga)
-City/Country: Campinas, Brazil
+Project Title: This is Tic-Tac-Toe <br>
+Name: Yuri R Braga <br>
+GitHub Username: [bragasgambit](https://github.com/bragasgambit) <br>
+edX Username: [YuriRBraga](https://profile.edx.org/u/YuriRBraga) <br>
+City/Country: Campinas, Brazil <br>
 Date: October, 28th, 2024
 
 Tic-Tac-Toe, also known as Noughts and Crosses or X's and O's, is a simple yet strategic game played on a 3x3 grid.
